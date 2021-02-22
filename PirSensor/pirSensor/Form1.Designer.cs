@@ -45,7 +45,7 @@
             this.baslat.Name = "baslat";
             this.baslat.Size = new System.Drawing.Size(75, 23);
             this.baslat.TabIndex = 0;
-            this.baslat.Text = "baslat";
+            this.baslat.Text = "Start";
             this.baslat.UseVisualStyleBackColor = true;
             this.baslat.Click += new System.EventHandler(this.baslat_Click);
             // 
@@ -55,7 +55,7 @@
             this.durdur.Name = "durdur";
             this.durdur.Size = new System.Drawing.Size(75, 23);
             this.durdur.TabIndex = 1;
-            this.durdur.Text = "durdur";
+            this.durdur.Text = "stop";
             this.durdur.UseVisualStyleBackColor = true;
             this.durdur.Click += new System.EventHandler(this.durdur_Click);
             // 
@@ -65,7 +65,7 @@
             this.sifirla.Name = "sifirla";
             this.sifirla.Size = new System.Drawing.Size(75, 23);
             this.sifirla.TabIndex = 2;
-            this.sifirla.Text = "sifırka";
+            this.sifirla.Text = "reset";
             this.sifirla.UseVisualStyleBackColor = true;
             // 
             // comboBox1
@@ -107,9 +107,9 @@
             this.label2.ForeColor = System.Drawing.Color.Red;
             this.label2.Location = new System.Drawing.Point(43, 19);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(159, 17);
+            this.label2.Size = new System.Drawing.Size(148, 17);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Lütfen önce port seçiniz";
+            this.label2.Text = "Please first port select";
             // 
             // Form1
             // 

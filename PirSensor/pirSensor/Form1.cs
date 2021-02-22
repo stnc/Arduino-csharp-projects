@@ -59,7 +59,7 @@ namespace sesnor
 
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Hata");    //Hata mesajı göster
+                MessageBox.Show(ex.Message, "error");    //Hata mesajı göster
             }
         }
 
