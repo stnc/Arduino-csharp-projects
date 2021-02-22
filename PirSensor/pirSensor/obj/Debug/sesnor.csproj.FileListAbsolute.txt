@@ -1,0 +1,30 @@
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\obj\Debug\sesnor.csprojAssemblyReference.cache
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\obj\Debug\sesnor.Form1.resources
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\obj\Debug\sesnor.Properties.Resources.resources
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\obj\Debug\sesnor.csproj.GenerateResource.cache
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\obj\Debug\sesnor.csproj.CoreCompileInputs.cache
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\bin\Debug\sesnor.exe.config
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\bin\Debug\sesnor.exe
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\bin\Debug\sesnor.pdb
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\obj\Debug\sesnor.exe
+C:\Users\Erciyes Teknopark1\source\repos\sesnor\sesnor\obj\Debug\sesnor.pdb
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\obj\Debug\sesnor.csprojAssemblyReference.cache
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\obj\Debug\sesnor.Form1.resources
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\obj\Debug\sesnor.Properties.Resources.resources
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\obj\Debug\sesnor.csproj.GenerateResource.cache
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\obj\Debug\sesnor.csproj.CoreCompileInputs.cache
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\obj\Debug\sesnor.exe
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\obj\Debug\sesnor.pdb
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\bin\Debug\sesnor.exe.config
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\bin\Debug\sesnor.exe
+C:\Users\Erciyes Teknopark1\source\repos\PirSensor\pirSensor\bin\Debug\sesnor.pdb
+D:\arduino\PirSensor\pirSensor\bin\Debug\sesnor.exe.config
+D:\arduino\PirSensor\pirSensor\bin\Debug\sesnor.exe
+D:\arduino\PirSensor\pirSensor\bin\Debug\sesnor.pdb
+D:\arduino\PirSensor\pirSensor\obj\Debug\sesnor.csprojAssemblyReference.cache
+D:\arduino\PirSensor\pirSensor\obj\Debug\sesnor.Form1.resources
+D:\arduino\PirSensor\pirSensor\obj\Debug\sesnor.Properties.Resources.resources
+D:\arduino\PirSensor\pirSensor\obj\Debug\sesnor.csproj.GenerateResource.cache
+D:\arduino\PirSensor\pirSensor\obj\Debug\sesnor.csproj.CoreCompileInputs.cache
+D:\arduino\PirSensor\pirSensor\obj\Debug\sesnor.exe
+D:\arduino\PirSensor\pirSensor\obj\Debug\sesnor.pdb

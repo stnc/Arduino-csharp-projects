@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sesnor", "pirSensor\sesnor.csproj", "{44EC0BA1-904E-4C9C-BBED-94B3E3409489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44EC0BA1-904E-4C9C-BBED-94B3E3409489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EC0BA1-904E-4C9C-BBED-94B3E3409489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EC0BA1-904E-4C9C-BBED-94B3E3409489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EC0BA1-904E-4C9C-BBED-94B3E3409489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4368B24A-34D8-4B35-8BF7-BA26E1AA3E35}
+	EndGlobalSection
+EndGlobal
