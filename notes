@@ -1,0 +1,92 @@
+
+sensor yapımı 
+https://randomnerdtutorials.com/arduino-with-pir-motion-sensor/
+
+https://circuitmagic.com/arduino/pir-motion-sensor-with-arduino/
+
+
+led yakmak  https://www.youtube.com/watch?v=dnPPoetX0uw&ab_channel=TapendraMandal
+
+
+
+pir hakkında detaylı 
+https://osoyoo.com/2017/07/27/arduino-lesson-pir-motion-sensor/
+
+c# portlar hakkında bilgi 
+http://www.burakozkan.net/c-serial-port-bileseni/
+http://arduinoturkiye.com/arduino-seri-haberlesme-serial-port-ve-fonksiyonlari/
+
+
+detaylı bilgi auridno kartları hakkında 
+https://sites.google.com/site/robotikprojeses/arduino/arduino-uezerinde-bulunan-pinler
+
+
+https://sites.google.com/site/robotikprojeses/ne-nedir/breadboard-nedir-nasil-kullanilir
+
+püf noktalar 
+http://arduinoturkiye.com/arduinoda-hafiza-cesitleri/
+
+shield
+https://lezzetlirobottarifleri.com/lcd-keypad-shield-arduino-ile-nasil-kullanilir/
+
+keypad 
+https://tasarimprojeyoutube.weebly.com/projelerimiz.html
+
+wifi 2 adet olan wifi okuma 
+
+
+
+https://www.youtube.com/watch?v=6rx-iyUq1Po&ab_channel=uElectroPro
+
+https://www.electronicshub.org/connect-esp8266-to-wifi/
+
+
+bunun doc olayını kullanabilirim doc,document
+https://tttapa.github.io/ESP8266/Chap07%20-%20Wi-Fi%20Connections.html
+
+
+
+https://www.etkilesimliogrenme.com/arduino-ile-esp8266-wifi-modulu-kullanarak-internet-uzerinden-led-yakma
+https://www.etkilesimliogrenme.com/esp8266-wifi-modulu-at-komutlari
+
+belki 
+https://microcontrollerelectronics.com/esp8266-wi-fi-module-revisited/
+
+ayrıntılı robot wifi ile 
+http://fab.cba.mit.edu/classes/865.15/people/dan.chen/esp8266/
+
+bu iyi , #iyi 
+https://steemit.com/utopian-io/@drencolha/esp8266-wifi-moduelue-kurulumu-ve-kuetuephane-kullanimi-turkish-tutorial
+
+
+https://www.mcu-turkey.com/esp8266-wifi-modulune-baslarken/
+
+internettten veri ceken 
+https://www.youtube.com/watch?v=eAg4ZJ4b84Q&feature=emb_logo&ab_channel=MucitPilot
+
+kullan bunu önemli
+https://techtutorialsx.com/2017/04/25/esp8266-setting-an-access-point/
+
+## bu kısım nrf24l01 hakkında bilgiler var 
+ardino c# proj 
+https://github.com/oguzhanbaser/C-Sharp/blob/master/tcpClient/tcpClient/Form1.cs
+
+wifi nin tüm örnekleri
+https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiAccessPoint/WiFiAccessPoint.ino
+
+
+tam benim ki 
+https://maker.robotistan.com/nrf24l01-ile-uzaktan-kontrol/
+
+detaylı anlatım 
+https://www.youtube.com/watch?v=O4ZTDMzmiuk&ab_channel=M%C3%BCcahidKELE%C5%9E
+
+bunun dediği wifi kodlaı hatasızmış 
+https://lezzetlirobottarifleri.com/nrf24l01-kablosuz-alici-verici-haberlesme-modulu/
+
+kullanılablir 
+https://github.com/ForceTronics/nRF24L01-Sensor-Network-that-Connects-to-the-Cloud/blob/master/MKR1000_nRF24L01_Cloud.ino
+
+access point detalı klavuz
+https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/soft-access-point-examples.html
+
